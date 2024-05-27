@@ -1,1 +1,1 @@
-# crypto-market-machine-learning
+# Crypto Market Investing Recommender
