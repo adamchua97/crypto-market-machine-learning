@@ -79,5 +79,3 @@ Full detail and rationale are in Sections 6–7 of `ML_Project_Summary_Report.pd
 For complete methodology, every chart, all confusion matrices, learning curves, and the full recommendations list, see **[`ML_Project_Summary_Report.pdf`](./ML_Project_Summary_Report.pdf)**.
 
 ---
-
-*Prepared for Adam · October 2026*
